@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🎓 TNEA College Allotment Intelligence
+streamlit link:https://college-prediction-using-cutoff-marks-vbirdnlbtzqb24updyfwnk.streamlit.app/
 
 **Turn your cutoff mark into a ranked, category-aware shortlist of Tamil Nadu engineering colleges.**
 
